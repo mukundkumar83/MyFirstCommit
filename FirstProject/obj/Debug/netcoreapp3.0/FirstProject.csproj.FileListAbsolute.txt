@@ -1,0 +1,9 @@
+C:\Mukund\MyGit\MyFirstCommit\FirstProject\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Mukund\MyGit\MyFirstCommit\FirstProject\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Mukund\MyGit\MyFirstCommit\FirstProject\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Mukund\MyGit\MyFirstCommit\FirstProject\obj\Debug\netcoreapp3.0\FirstProject.csprojAssemblyReference.cache
+C:\Mukund\MyGit\MyFirstCommit\FirstProject\obj\Debug\netcoreapp3.0\staticwebassets\FirstProject.StaticWebAssets.Manifest.cache
+C:\Mukund\MyGit\MyFirstCommit\FirstProject\obj\Debug\netcoreapp3.0\staticwebassets\FirstProject.StaticWebAssets.xml
+C:\Mukund\MyGit\MyFirstCommit\FirstProject\obj\Debug\netcoreapp3.0\FirstProject.AssemblyInfoInputs.cache
+C:\Mukund\MyGit\MyFirstCommit\FirstProject\obj\Debug\netcoreapp3.0\FirstProject.AssemblyInfo.cs
+C:\Mukund\MyGit\MyFirstCommit\FirstProject\obj\Debug\netcoreapp3.0\FirstProject.RazorTargetAssemblyInfo.cache
