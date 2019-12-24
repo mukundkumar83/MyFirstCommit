@@ -23,6 +23,11 @@ namespace FirstProject.Controllers
             _logger = logger;
         }
 
+        private void TestFunction()
+        {
+            Console.WriteLine("Test");
+        }
+
         [HttpGet]
         public IEnumerable<WeatherForecast> Get()
         {
